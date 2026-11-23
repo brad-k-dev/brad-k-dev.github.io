@@ -1,0 +1,16 @@
+# Offtask Lab
+
+> Offtask Lab is an indie studio from Korea making small iOS apps and games for your in-between moments. Korean name: 오프태스크 랩. All apps listed here are free on the App Store.
+
+- Home (Korean): https://brad-k-dev.github.io/
+- Home (English): https://brad-k-dev.github.io/en/
+- Contact: offtasklab@gmail.com
+
+## Apps and games
+
+- [Mochi Bakery: Block Puzzle](https://brad-k-dev.github.io/mochi-bakery/): Drop squishy mochi onto the tray and fill a row or column to pop them. A relaxing block puzzle. Korean title: 모찌 베이커리: 말랑 블록 퍼즐. iOS, free. App Store: https://apps.apple.com/app/id6822971808
+- [Squish Cats: Cute Cat Jam](https://brad-k-dev.github.io/Squish-cats/): Tap a cat and it runs straight into the basket of its color. A cozy one-tap puzzle. Korean title: 쏙! 냥이 - 귀여운 냥이 퍼즐. iOS, free. App Store: https://apps.apple.com/app/id6826563332
+- [Gureum Jupjup (구름줍줍)](https://brad-k-dev.github.io/gureum-jupjup/): Snap the clouds you find in the sky, name them, and collect them in a sky of your own. Korean App Store only. Korean title: 구름줍줍. iOS, free. App Store: https://apps.apple.com/kr/app/id6826859875
+- [Luma Garden](https://brad-k-dev.github.io/luma-garden/index-en.html): Rotate tiles to connect paths of light and make the garden bloom. A relaxing puzzle. Korean title: 루마 가든: 빛 퍼즐. iOS, free. App Store: https://apps.apple.com/app/id6826611529
+- [Slipring](https://brad-k-dev.github.io/slipring/): A dot runs a ring. Tap to send it the other way and be in the gap. A one-tap arcade game. Korean title: 슬립링. iOS, free. App Store: https://apps.apple.com/app/id6823086561
+- [Sneaky Salaryman: Clock Out](https://brad-k-dev.github.io/sneaky-salaryman/): A pixel stealth game about clocking out on time without getting caught. Korean title: 칼퇴 대작전. iOS, free. App Store: https://apps.apple.com/app/id6819158926
